@@ -16,7 +16,7 @@
     "require": {
         "php": "^8.2",
         "ext-json": "*",
-        "arcanedev/support": "^12.0",
+        "cryptothree/log-viewer-support": "^12.0",
         "psr/log": "^1.0|^2.0|^3.0"
     },
     "require-dev": {
